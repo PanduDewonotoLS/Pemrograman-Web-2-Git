@@ -5,8 +5,8 @@
 		session_destroy();
 		echo "<center>";
 		echo "<h1>Anda Sudah Berhasil LOGOUT!</h1>";
-		echo "<h2>Klik <a href='session1.php'>Di Sini</a> Untuk LOGIN kembali</h2>";
-		echo "<h2>Anda Sekarang Tidak Bisa Masuk Ke Halaman <a href='session2.php'>session2.php</a> Lagi</h2>";
+		echo "<h2>Klik <a href='pert14_session1.php'>Di Sini</a> Untuk LOGIN kembali</h2>";
+		echo "<h2>Anda Sekarang Tidak Bisa Masuk Ke Halaman <a href='pert14_session2.php'>session2.php</a> Lagi</h2>";
 		echo "</center>";
 	}
 ?>

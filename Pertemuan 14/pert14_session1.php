@@ -10,7 +10,7 @@
 			$_SESSION['login'] = $user;
 			echo "<center>";
 			echo "<h1>Anda Berhasil LOGIN</h1>";
-			echo "<h2>Klik <a href='session2.php'>Di Sini (session2.php)</a> Untuk Menuju Ke Halaman Pemeriksaan Session";
+			echo "<h2>Klik <a href='pert14_session2.php'>Di Sini (session2.php)</a> Untuk Menuju Ke Halaman Pemeriksaan Session";
 			echo "</center>";
 		}
 		else
